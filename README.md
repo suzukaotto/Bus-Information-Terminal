@@ -1,6 +1,6 @@
 # LED Bus Information Terminal
 ```bash
-sudo git clone https://github.com/suzukaotto/LED-Bus-Information-Terminal_BITP.git /usr/local/LED-Bus-Information-Terminal_BITP
+sudo git clone https://github.com/szkotgh/LED-Bus-Information-Terminal_BITP.git /usr/local/LED-Bus-Information-Terminal_BITP
 sudo bash /usr/local/LED-Bus-Information-Terminal_BITP/installer.sh
 ```
 
